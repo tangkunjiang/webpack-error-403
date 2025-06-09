@@ -12,6 +12,9 @@
 When I update webpack-dev-server from 5.2.1 to 5.2.2, it works well
 
 ## Environmental description
+
 nodejs: 20.18.2
+
 platform: window 10
+
 package manager: pnpm@10
